@@ -63,3 +63,7 @@ tfcopyvars copy-vars --from source-workspace --to destination-workspace
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Authors
+
+- [Puru Tuladhar](https://purutuladhar.com)
